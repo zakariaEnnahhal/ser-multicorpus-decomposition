@@ -1,0 +1,13 @@
+# data and caches (corpora are not redistributed)
+data/
+feat_cache/
+runs/
+*.wav
+*.npy
+*.npz
+*.pt
+*.ckpt
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/

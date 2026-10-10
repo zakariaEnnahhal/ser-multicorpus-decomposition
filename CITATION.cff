@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Decomposing Pooled Multi-Corpus Speech Emotion Recognition Performance: Speaker Overlap, Corpus Effects and Run-to-Run Variation"
+type: software
+authors:
+  - family-names: Ennahhal
+    given-names: Zakaria
+    affiliation: "C3S Laboratory, University Hassan II of Casablanca, Morocco"
+  - family-names: Iaousse
+    given-names: "M'barek"
+    affiliation: "C3S Laboratory, University Hassan II of Casablanca, Morocco"
+  - family-names: El Kamili
+    given-names: Mohamed
+    affiliation: "C3S Laboratory, University Hassan II of Casablanca, Morocco"
+  - family-names: Berrada
+    given-names: Ismail
+    affiliation: "Mohammed VI Polytechnic University (UM6P), Morocco"
+license: MIT
+date-released: "2026-10-10"
+keywords:
+  - speech emotion recognition
+  - cross-corpus evaluation
+  - WavLM
+  - reproducibility
