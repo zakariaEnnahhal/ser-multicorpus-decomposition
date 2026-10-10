@@ -5,13 +5,13 @@ type: software
 authors:
   - family-names: Ennahhal
     given-names: Zakaria
-    affiliation: "C3S Laboratory, University Hassan II of Casablanca, Morocco"
+    affiliation: "C3S Laboratory, Higher School of Technology of Casablanca (ESTC), University Hassan II of Casablanca, Morocco"
   - family-names: Iaousse
     given-names: "M'barek"
-    affiliation: "C3S Laboratory, University Hassan II of Casablanca, Morocco"
+    affiliation: "C3S Laboratory, Higher School of Technology of Casablanca (ESTC), University Hassan II of Casablanca, Morocco"
   - family-names: El Kamili
     given-names: Mohamed
-    affiliation: "C3S Laboratory, University Hassan II of Casablanca, Morocco"
+    affiliation: "C3S Laboratory, Higher School of Technology of Casablanca (ESTC), University Hassan II of Casablanca, Morocco"
   - family-names: Berrada
     given-names: Ismail
     affiliation: "Mohammed VI Polytechnic University (UM6P), Morocco"
